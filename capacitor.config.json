@@ -1,0 +1,8 @@
+{
+  "appId": "com.ricecalc.app",
+  "appName": "白飯分配計算機",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  }
+}
