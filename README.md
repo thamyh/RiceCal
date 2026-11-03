@@ -68,8 +68,8 @@
 ### 下載與安裝
 
 ```bash
-git clone https://github.com/thamyh/rice-calculator.git
-cd rice-calculator
+git clone https://github.com/thamyh/RiceCal.git
+cd RiceCal
 npm install
 ```
 
@@ -158,7 +158,7 @@ npm run android
 ## 📁 專案結構
 
 ```
-rice-calculator/
+RiceCal/
 ├── src/
 │   ├── App.jsx           # 計算機主程式（畫面與計算邏輯）
 │   ├── main.jsx          # React 進入點
